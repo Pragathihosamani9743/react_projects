@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.counter-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  padding: 20px;
+  text-align: center;
+}
+
+.heading {
+  color: #2d3a35;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.count {
+  color: #c20a72;
+}
+
+.description {
+  color: #2d3a35;
+  font-size: 16px;
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 16px;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
